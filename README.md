@@ -11,7 +11,7 @@
 | 0763     | 双指针，贪心             | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0763.%20%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.md) |
 | 0925     | 双指针                   | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0925.%20%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.md) |
 | 0977     | 双指针                   | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) |
-| 1024     | DP                       | java                                                         |
+| 1024     | DP                       | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/1024.%20%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.md) |
 | 1119     | 无特殊                   | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/1119.%20%E5%88%A0%E5%8E%BB%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3.md) |
 | LCP 0018 | 空间换时间               | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/LCP%200018.%20%E6%97%A9%E9%A4%90%E7%BB%84%E5%90%88.md) |
 
