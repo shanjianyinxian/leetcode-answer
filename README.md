@@ -6,7 +6,7 @@
 | 0052     | 位运算，dfs              | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0052.%20N%E7%9A%87%E5%90%8E%20II.md) |
 | 0116     | 双指针                   | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md) |
 | 0143     | 双指针                   | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0143.%20%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) |
-| 0144     | 前序遍历                 | java                                                         |
+| 0144     | 前序遍历                 | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) |
 | 0234     | 双指针（快慢），反转链表 | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0234.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) |
 | 0530     | 中序遍历                 | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0530.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE.md) |
 | 0763     | 双指针，贪心             | [java](https://github.com/shanjianyinxian/leetcode-answer/blob/main/java%E8%A7%A3%E6%B3%95/0763.%20%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.md) |
